@@ -362,6 +362,8 @@ open_to:
   <a href="https://linkedin.com/in/abhinesh-exe"><img src="https://img.shields.io/badge/LinkedIn-abhinesh--exe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/strange-exe"><img src="https://img.shields.io/badge/GitHub-strange--exe-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://abhinesh.me/"><img src="https://img.shields.io/badge/Portfolio-abhinesh.me-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://discord.com/users/1023977968562876536"><img src="https://img.shields.io/badge/Discord-Sᴛʀᴀɴɢᴇ-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
+
 
 ---
