@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <a href="https://abhinesh.me/"><img src="https://img.shields.io/badge/Portfolio-abhinesh.me-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abhinesh.codes/"><img src="https://img.shields.io/badge/Portfolio-abhinesh.codes-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/abhinesh-exe"><img src="https://img.shields.io/badge/LinkedIn-abhinesh--exe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:work.abhinesh@gmail.com"><img src="https://img.shields.io/badge/Email-work.abhinesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/strange-exe"><img src="https://img.shields.io/badge/GitHub-strange--exe-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -89,7 +89,7 @@ A review intelligence layer that turns raw guest feedback into decision-ready si
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Python, NLP, analytics dashboard, AI-assisted review processing | Product analytics for hospitality feedback workflows | Fast theme-level inspection with batch-friendly analysis | Structured data handling and local inference-friendly flow | Converts reviews into operational insight for homestay owners | [Repo](https://abhinesh.me/revlens-ai) |
+| Python, NLP, analytics dashboard, AI-assisted review processing | Product analytics for hospitality feedback workflows | Fast theme-level inspection with batch-friendly analysis | Structured data handling and local inference-friendly flow | Converts reviews into operational insight for homestay owners | [Repo](https://abhinesh.codes/revlens-ai) |
 
 </details>
 
@@ -100,7 +100,7 @@ A focused extraction system for shipping emails and logistics data capture. It i
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| Python, text classification, local NLP, structured extraction | Email intelligence for shipping and logistics workflows | Optimized for quick classification and record extraction | Local processing reduces unnecessary data exposure | Transforms unstructured maritime mail into usable records | [Live Demo](https://mailparser.abhinesh.me/) | [Repo](https://abhinesh.me/ime) |
+| Python, text classification, local NLP, structured extraction | Email intelligence for shipping and logistics workflows | Optimized for quick classification and record extraction | Local processing reduces unnecessary data exposure | Transforms unstructured maritime mail into usable records | [Live Demo](https://mailparser.abhinesh.codes/) | [Repo](https://abhinesh.codes/ime) |
 
 </details>
 
@@ -111,7 +111,7 @@ A high-fidelity browser experience for countdowns, reveals, and themed interacti
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| HTML, CSS, JavaScript, client-side rendering, media export logic | Single-page event reveal and countdown utility | Lightweight, no heavy backend dependency | Client-side execution minimizes attack surface | Delivers a polished countdown experience with local exports | [Live Demo](https://epoch.abhinesh.me) | [Repo](https://github.com/strange-exe/epoch) |
+| HTML, CSS, JavaScript, client-side rendering, media export logic | Single-page event reveal and countdown utility | Lightweight, no heavy backend dependency | Client-side execution minimizes attack surface | Delivers a polished countdown experience with local exports | [Live Demo](https://epoch.abhinesh.codes) | [Repo](https://github.com/strange-exe/epoch) |
 
 </details>
 
@@ -122,7 +122,7 @@ A learning-oriented Python project used for problem-based practice and experimen
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| Python, problem-solving practice, scripting utilities | Academic practice workspace | Simple, direct execution paths for learning | Low-complexity scripts with limited surface area | Supports core Python fluency and practice | [Repo](https://abhinesh.me/python_pbl) |
+| Python, problem-solving practice, scripting utilities | Academic practice workspace | Simple, direct execution paths for learning | Low-complexity scripts with limited surface area | Supports core Python fluency and practice | [Repo](https://abhinesh.codes/python_pbl) |
 
 </details>
 
@@ -133,7 +133,7 @@ An exploratory AI concept project focused on model-driven workflows.
 
 | Stack | Scale | Performance | Security | Impact | Repository |
 |---|---|---|---|---|---|
-| AI/ML experimentation, model workflow prototyping | Concept-stage AI workspace | Designed for iterative experimentation | Prototype-first layout, limited operational exposure | Builds familiarity with applied AI structures | [Repo](https://abhinesh.me/neural-nexus) |
+| AI/ML experimentation, model workflow prototyping | Concept-stage AI workspace | Designed for iterative experimentation | Prototype-first layout, limited operational exposure | Builds familiarity with applied AI structures | [Repo](https://abhinesh.codes/neural-nexus) |
 
 </details>
 
@@ -155,7 +155,7 @@ A compact interactive project built around a minimal user experience.
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| HTML, CSS, JavaScript, lightweight UI logic | Compact interactive utility | Very small footprint and quick load time | Static-style surface with minimal dependencies | Demonstrates clean micro-interaction design | [Live Demo](https://tic.abhinesh.me/) | [Repo](https://github.com/strange-exe/tic) |
+| HTML, CSS, JavaScript, lightweight UI logic | Compact interactive utility | Very small footprint and quick load time | Static-style surface with minimal dependencies | Demonstrates clean micro-interaction design | [Live Demo](https://tic.abhinesh.codes/) | [Repo](https://github.com/strange-exe/tic) |
 
 </details>
 
@@ -166,7 +166,7 @@ A responsive space browser that turns NASA imagery into an easy-to-use visual ap
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| NASA APOD API, JavaScript, responsive UI | Public API-powered astronomy viewer | Direct API fetch with simple rendering | Official public API consumption with controlled inputs | Makes daily cosmic imagery accessible in a clean interface | [Live Demo](https://abhinesh.me/spacehub) | [Repo](https://github.com/strange-exe/spacehub) |
+| NASA APOD API, JavaScript, responsive UI | Public API-powered astronomy viewer | Direct API fetch with simple rendering | Official public API consumption with controlled inputs | Makes daily cosmic imagery accessible in a clean interface | [Live Demo](https://abhinesh.codes/spacehub) | [Repo](https://github.com/strange-exe/spacehub) |
 
 </details>
 
@@ -177,7 +177,7 @@ A small encryption and decryption utility built to practice text transformation 
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| Python/JavaScript-style encryption logic, text transformation | Utility-level security tool | Fast character transformation pipeline | Basic obfuscation and reversible transformation flow | Useful for learning secure text manipulation concepts | [Live Demo](https://abhinesh.me/cipher) | [Repo](https://github.com/strange-exe/cipher) |
+| Python/JavaScript-style encryption logic, text transformation | Utility-level security tool | Fast character transformation pipeline | Basic obfuscation and reversible transformation flow | Useful for learning secure text manipulation concepts | [Live Demo](https://abhinesh.codes/cipher) | [Repo](https://github.com/strange-exe/cipher) |
 
 </details>
 
@@ -188,7 +188,7 @@ A college-use workflow application for handling outing requests and records. It 
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| CRUD workflow app, student requests, record management | Campus operations tool | Straight-line request and approval processing | Structured access to student outing records | Reduces friction in outing management and history tracking | [Live Demo](https://outing.abhinesh.me/) | [Repo](https://github.com/strange-exe/outing) |
+| CRUD workflow app, student requests, record management | Campus operations tool | Straight-line request and approval processing | Structured access to student outing records | Reduces friction in outing management and history tracking | [Live Demo](https://outing.abhinesh.codes/) | [Repo](https://github.com/strange-exe/outing) |
 
 </details>
 
@@ -199,7 +199,7 @@ A productivity timer built to improve study rhythm and focus management. It is d
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| Productivity UI, timer logic, themed front end | Personal focus and study utility | Responsive timer interactions with lightweight rendering | Local-first tool with minimal external exposure | Supports focused study sessions and time discipline | [Live Demo](https://abhinesh.me/hourglass) | [Repo](https://github.com/strange-exe/hourglass) |
+| Productivity UI, timer logic, themed front end | Personal focus and study utility | Responsive timer interactions with lightweight rendering | Local-first tool with minimal external exposure | Supports focused study sessions and time discipline | [Live Demo](https://abhinesh.codes/hourglass) | [Repo](https://github.com/strange-exe/hourglass) |
 
 </details>
 
@@ -210,7 +210,7 @@ A competitive code-typing environment designed for speed, precision, and practic
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| Browser-based coding challenge engine, timer, keystroke tracking | Competitive practice platform | Real-time input tracking with low-latency UI | Session-oriented gameplay with constrained user actions | Builds typing speed, accuracy, and coding discipline | [Live Demo](https://abhinesh.me/codesprint) | [Repo](https://github.com/strange-exe/codesprint) |
+| Browser-based coding challenge engine, timer, keystroke tracking | Competitive practice platform | Real-time input tracking with low-latency UI | Session-oriented gameplay with constrained user actions | Builds typing speed, accuracy, and coding discipline | [Live Demo](https://abhinesh.codes/codesprint) | [Repo](https://github.com/strange-exe/codesprint) |
 
 </details>
 
@@ -221,7 +221,7 @@ A first-generation utility focused on generating strong random passwords quickly
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| HTML, CSS, JavaScript, password generation logic | Utility app for password creation | Instant generation on demand | Randomized output for stronger password hygiene | Makes secure password creation accessible | [Live Demo](https://abhinesh.me/pass) | [Repo](https://github.com/strange-exe/pass) | 
+| HTML, CSS, JavaScript, password generation logic | Utility app for password creation | Instant generation on demand | Randomized output for stronger password hygiene | Makes secure password creation accessible | [Live Demo](https://abhinesh.codes/pass) | [Repo](https://github.com/strange-exe/pass) | 
 
 </details>
 
@@ -232,7 +232,7 @@ A feature-evolving Discord bot built for automation and command-driven interacti
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| Discord bot automation, commands, event handlers | Bot platform for personal server workflows | Modular command execution with responsive events | Permission-aware bot behavior and scoped commands | Automates chat workflows and server utilities | [Live Demo](https://abhinesh.me/blaze) | [Repo](https://github.com/strange-exe/blaze) |
+| Discord bot automation, commands, event handlers | Bot platform for personal server workflows | Modular command execution with responsive events | Permission-aware bot behavior and scoped commands | Automates chat workflows and server utilities | [Live Demo](https://abhinesh.codes/blaze) | [Repo](https://github.com/strange-exe/blaze) |
 
 </details>
 
@@ -243,7 +243,7 @@ A minimal time-display project focused on clarity and reliability.
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---
-| Time display utility, UI scripting | Compact clock application | Simple real-time updates | Static utility with negligible surface area | Provides a clean time reference interface | [Live Demo](https://abhinesh.me/clock) | [Repo](https://github.com/strange-exe/clock) |
+| Time display utility, UI scripting | Compact clock application | Simple real-time updates | Static utility with negligible surface area | Provides a clean time reference interface | [Live Demo](https://abhinesh.codes/clock) | [Repo](https://github.com/strange-exe/clock) |
 
 </details>
 
@@ -254,7 +254,7 @@ A compact API-driven app that fetches and displays quotes on demand.
 
 | Stack | Scale | Performance | Security | Impact | Demo | Repository |
 |---|---|---|---|---|---|---|
-| Public quote API consumption, dynamic UI rendering | Micro web application | Lightweight fetch-and-render loop | Constrained to read-only public API usage | Delivers quick access to curated quotes | [Live Demo](https://abhinesh.me/quotes) | [Repo](https://github.com/strange-exe/quotes) |
+| Public quote API consumption, dynamic UI rendering | Micro web application | Lightweight fetch-and-render loop | Constrained to read-only public API usage | Delivers quick access to curated quotes | [Live Demo](https://abhinesh.codes/quotes) | [Repo](https://github.com/strange-exe/quotes) |
 
 </details>
 
@@ -361,7 +361,7 @@ open_to:
   <a href="mailto:work.abhinesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-work.abhinesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/abhinesh-exe"><img src="https://img.shields.io/badge/LinkedIn-abhinesh--exe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/strange-exe"><img src="https://img.shields.io/badge/GitHub-strange--exe-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://abhinesh.me/"><img src="https://img.shields.io/badge/Portfolio-abhinesh.me-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abhinesh.codes/"><img src="https://img.shields.io/badge/Portfolio-abhinesh.codes-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://discord.com/users/1023977968562876536"><img src="https://img.shields.io/badge/Discord-Sᴛʀᴀɴɢᴇ-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
