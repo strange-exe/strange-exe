@@ -12,7 +12,7 @@ function featuredBlock(p) {
   const links = [`[GitHub Repository](${p.github_url})`];
   if (live(p)) links.push(`[Live Demo](${live(p)})`);
   return [
-    `### ${p.emoji ? p.emoji + " " : ""}[${p.title}](${live(p) || p.github_url})`,
+    `### [${p.title}](${live(p) || p.github_url})`,
     `> ${oneLine(p.tagline || p.description || "")}`,
     p.stack?.length ? `* **Stack:** ${p.stack.join(", ")}` : null,
     p.impact ? `* **Impact:** ${oneLine(p.impact)}` : null,
