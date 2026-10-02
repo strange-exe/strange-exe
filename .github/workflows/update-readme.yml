@@ -1,0 +1,30 @@
+name: Update Profile README
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 0 * * *" # 30 min after the portfolio rebuilds projects.json
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - run: node update-readme.js
+
+      - name: Commit if changed
+        run: |
+          git config user.name "strange-exe"
+          git config user.email "work.abhinesh@gmail.com"
+          git add README.md
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore: sync projects from abhinesh.codes"
+          git push
