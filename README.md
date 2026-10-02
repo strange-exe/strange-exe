@@ -47,34 +47,34 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 ---
 
 <!-- PROJECTS:START -->
-## 🚀 Featured Projects
+## Featured Projects
 
-### 👁️ [Revlens AI](https://revlens.abhinesh.codes/)
+### [Revlens AI](https://revlens.abhinesh.codes/)
 > **AI-powered review intelligence** platform that transforms guest feedback into decision-ready insights for homestay owners.
 * **Stack:** Python, JavaScript, NLP, Sentiment Analysis, Analytics Dashboard
 * **Impact:** Converts raw reviews into operational insight with theme detection and batch-friendly analysis.
 * [GitHub Repository](https://github.com/strange-exe/revlens-ai) • [Live Demo](https://revlens.abhinesh.codes/)
 
-### ⚓ [IME (Maritime Email Intelligence)](https://github.com/strange-exe/IME)
+### [IME (Maritime Email Intelligence)](https://github.com/strange-exe/IME)
 > **AI-driven maritime parser** that classifies shipping emails and extracts structured logistics metadata.
 * **Stack:** Python, Local NLP, Text Classification, REST APIs, Docker
 * **Impact:** Transforms unstructured maritime mail into usable records (ports, routes, dates).
 * [GitHub Repository](https://github.com/strange-exe/IME)
 
-### ⚡ [Epoch](https://epoch.abhinesh.codes/)
+### [Epoch](https://epoch.abhinesh.codes/)
 > **High-fidelity countdown builder** and event reveal platform with client-side media exports.
 * **Stack:** HTML5, CSS3, Vanilla JavaScript, Canvas Particle System
 * **Impact:** Lightweight, offline-first client-side tool with custom themes and smooth transitions.
 * [GitHub Repository](https://github.com/strange-exe/epoch) • [Live Demo](https://epoch.abhinesh.codes/)
 
-### 🏆 [Codesprint](https://abhinesh.codes/codesprint/)
+### [Codesprint](https://abhinesh.codes/codesprint/)
 > **Competitive browser-based typing challenge** designed for speed, precision, and coding discipline.
 * **Stack:** JavaScript, Keystroke Tracking, CSS Grid/Flex
 * **Impact:** Tracks live keystroke metrics and real-time input over code snippets (Python, JS, C).
 * [GitHub Repository](https://github.com/strange-exe/codesprint) • [Live Demo](https://abhinesh.codes/codesprint/)
 
 <details>
-<summary>🔍 View More Projects</summary>
+<summary>View More Projects</summary>
 
 - **[Outing](https://github.com/strange-exe/outing)**: A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history
 - **[Quotes](https://github.com/strange-exe/quotes)** [Demo](https://abhinesh.codes/quotes/)
