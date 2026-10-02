@@ -14,7 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://abhinesh.codes/"><img src="https://img.shields.io/badge/Portfolio-abhinesh.codes-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abhinesh.codes/"><img src="https://img.shields.io/badge/Portfolio-abhinesh.codes-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abhinesh.codes/resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-10B981?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
   <a href="https://linkedin.com/in/abhinesh-exe"><img src="https://img.shields.io/badge/LinkedIn-abhinesh--exe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:work.abhinesh@gmail.com"><img src="https://img.shields.io/badge/Email-work.abhinesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/strange-exe"><img src="https://img.shields.io/badge/GitHub-strange--exe-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -29,7 +30,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a B.Tech Computer Science and Engineering student specializing in **Artificial Intelligence and Machine Learning**, with a strong bias toward building software that ships. My work sits at the intersection of AI/ML, full-stack development, API-driven systems, and product engineering.
 
@@ -37,57 +38,71 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,fastapi,git,github,linux,vscode" alt="Languages and Tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,html,css,nodejs,express,fastapi,flask,docker,git,github,linux,vscode" alt="Languages and Tools" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+<!-- PROJECTS:START -->
+## Featured Projects
 
-### 👁️ [Revlens AI](https://abhinesh.codes/revlens-ai)
+### [Revlens AI](https://revlens.abhinesh.codes/)
 > **AI-powered review intelligence** platform that transforms guest feedback into decision-ready insights for homestay owners.
-* **Stack:** Python, NLP, Sentiment Analysis, Analytics Dashboard
+* **Stack:** Python, JavaScript, NLP, Sentiment Analysis, Analytics Dashboard
 * **Impact:** Converts raw reviews into operational insight with theme detection and batch-friendly analysis.
-* [GitHub Repository](https://abhinesh.codes/revlens-ai)
+* [GitHub Repository](https://github.com/strange-exe/revlens-ai) • [Live Demo](https://revlens.abhinesh.codes/)
 
-### ⚓ [IME (Maritime Email Intelligence)](https://mailparser.abhinesh.codes/)
+### [IME (Maritime Email Intelligence)](https://github.com/strange-exe/IME)
 > **AI-driven maritime parser** that classifies shipping emails and extracts structured logistics metadata.
-* **Stack:** Python, Local NLP, Text Classification, REST APIs
+* **Stack:** Python, Local NLP, Text Classification, REST APIs, Docker
 * **Impact:** Transforms unstructured maritime mail into usable records (ports, routes, dates).
-* [GitHub Repository](https://abhinesh.codes/ime) • [Live Demo](https://mailparser.abhinesh.codes/)
+* [GitHub Repository](https://github.com/strange-exe/IME)
 
-### ⚡ [Epoch](https://epoch.abhinesh.codes)
+### [Epoch](https://epoch.abhinesh.codes/)
 > **High-fidelity countdown builder** and event reveal platform with client-side media exports.
 * **Stack:** HTML5, CSS3, Vanilla JavaScript, Canvas Particle System
 * **Impact:** Lightweight, offline-first client-side tool with custom themes and smooth transitions.
-* [GitHub Repository](https://github.com/strange-exe/epoch) • [Live Demo](https://epoch.abhinesh.codes)
+* [GitHub Repository](https://github.com/strange-exe/epoch) • [Live Demo](https://epoch.abhinesh.codes/)
 
-### 🏆 [Codesprint](https://abhinesh.codes/codesprint)
+### [Codesprint](https://abhinesh.codes/codesprint/)
 > **Competitive browser-based typing challenge** designed for speed, precision, and coding discipline.
 * **Stack:** JavaScript, Keystroke Tracking, CSS Grid/Flex
-* **Impact:** Tracks live keystroke metrics and real-time input tracking over snippets (Python, JS, C).
-* [GitHub Repository](https://github.com/strange-exe/codesprint) • [Live Demo](https://abhinesh.codes/codesprint)
+* **Impact:** Tracks live keystroke metrics and real-time input over code snippets (Python, JS, C).
+* [GitHub Repository](https://github.com/strange-exe/codesprint) • [Live Demo](https://abhinesh.codes/codesprint/)
 
 <details>
-<summary>🔍 View More Projects</summary>
+<summary>View More Projects</summary>
 
-- **[Outing](https://github.com/strange-exe/outing)**: Campus operations tool tracking student outing requests and history. [Demo](https://outing.abhinesh.codes/)
-- **[Hourglass](https://github.com/strange-exe/hourglass)**: Sleek, interactive study timer with theme customization and focus stats. [Demo](https://abhinesh.codes/hourglass)
-- **[Blaze](https://github.com/strange-exe/blaze)**: Custom Discord bot for server utilities and command-driven automation.
-- **[Spacehub](https://github.com/strange-exe/spacehub)**: A clean responsive web app displaying NASA’s Astronomy Picture of the Day. [Demo](https://abhinesh.codes/spacehub)
+- **[Outing](https://github.com/strange-exe/outing)**: A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history
+- **[Quotes](https://github.com/strange-exe/quotes)** [Demo](https://abhinesh.codes/quotes/)
+- **[Clock](https://github.com/strange-exe/clock)** [Demo](https://abhinesh.codes/clock/)
+- **[Setu](https://github.com/strange-exe/setu)**: Multilingual Digital Public Good that turns citizen development requests into a ranked, auditable national investment order. Built for Hack2Skill Build with AI: Code for Communities. [Demo](https://abhinesh.codes/setu/)
+- **[Lexi AI](https://github.com/strange-exe/lexi-ai)**: A comprehensive, production-grade GenAI solution designed to democratize legal comprehension, bridge information asymmetry, and make legal documents and rights navigable for everyday individuals, tenants, freelancers, and small business owners without replacing professional legal counsel.
+- **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
+- **[Hourglass](https://github.com/strange-exe/hourglass)**: Hour Glass – A sleek, interactive study timer with customizable themes, reminders, focus mode, and live study stats to boost productivity. [Demo](https://abhinesh.codes/hourglass/)
+- **[ArenaSync](https://github.com/strange-exe/ArenaSync)**: ArenaSync is a GenAI-enabled Smart Stadium & Operations Hub built for the FIFA World Cup 2026. Featuring an interactive 3D Three.js map layer, real-time telemetry simulators, a voice-enabled multilingual matchday chatbot, and an AI volunteer dispatch command room powered by Gemini (Node.js + Express) [Demo](https://arenasync-pnl8.onrender.com/)
+- **[CropMind](https://github.com/strange-exe/CropMind-Chatbot)**: Smart farming assistant: crop tracking dashboard, live soil-moisture and rain-probability widgets, and an AI chat assistant. [Demo](https://crop-mind-chatbot-ten.vercel.app/)
+- **[EcoTrack](https://github.com/strange-exe/ecotracker)**: Local-first, privacy-respecting carbon footprint tracker with gamification, peer comparisons, and analytics.
+- **[Spacehub](https://github.com/strange-exe/spacehub)**: SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually. [Demo](https://abhinesh.codes/spacehub/)
+- **[Taskflow](https://github.com/strange-exe/taskflow)**: CBC Submission
+- **[Tic](https://github.com/strange-exe/tic)** [Demo](https://tic.abhinesh.codes/)
+- **[Cipher](https://github.com/strange-exe/cipher)**: An Encryption , Decryption tool which Encrypts words by rearranging characters and inserting random noise based on a given key, and reverses the process to decrypt. [Demo](https://abhinesh.codes/cipher/)
+- **[Pass](https://github.com/strange-exe/pass)**: My first project, built using HTML, CSS, and JavaScript. It lets users generate secure, random passwords with customizable parameters and copy them instantly. [Demo](https://abhinesh.codes/pass/)
+- **[Blaze](https://github.com/strange-exe/Blaze)**: Blaze is a versatile Discord bot built to suit my personal requirements, constantly evolving with innovative features as I develop new ideas. [Demo](https://abhinesh.codes/Blaze/)
 </details>
+<!-- PROJECTS:END -->
 
 ---
 
-## 💼 Experience & Achievements
+## Experience & Achievements
 
-- 🎓 **Student Software Engineer** | *Graphic Era University / Independent* (2025 – Present)
+- **Student Software Engineer** | *Graphic Era University / Independent* (2025 – Present)
   - Building AI/ML prototypes, full-stack utilities, and API-driven applications.
-- 🏆 **Competition Winner**: Won multiple college-level coding competitions organized by technical clubs.
-- 💻 **LeetCode Problem Solver**: Active developer focused on algorithmic precision and problem-solving.
+- **Competition Winner**: Won multiple college-level coding competitions organized by technical clubs.
+- **LeetCode Problem Solver**: Active developer focused on algorithmic precision and problem-solving.
 
 <div align="center">
   <a href="https://leetcode.com/u/Abhinesh-exe/">
@@ -97,7 +112,7 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=strange-exe&show_icons=true&count_private=true&hide_border=true&title_color=8B5CF6&text_color=E5E7EB&icon_color=8B5CF6&bg_color=0D1117&rank_icon=github" height="180" alt="GitHub Stats" />
@@ -119,7 +134,7 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 learning:
@@ -150,6 +165,6 @@ open_to:
   <a href="mailto:work.abhinesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-work.abhinesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/abhinesh-exe"><img src="https://img.shields.io/badge/LinkedIn-abhinesh--exe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/strange-exe"><img src="https://img.shields.io/badge/GitHub-strange--exe-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://abhinesh.codes/"><img src="https://img.shields.io/badge/Portfolio-abhinesh.codes-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://abhinesh.codes/"><img src="https://img.shields.io/badge/Portfolio-abhinesh.codes-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
   <a href="https://discord.com/users/1023977968562876536"><img src="https://img.shields.io/badge/Discord-Sᴛʀᴀɴɢᴇ-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
