@@ -35,12 +35,12 @@ function render(projects) {
     .sort((a, b) => new Date(b.updated) - new Date(a.updated));
 
   return [
-    "## 🚀 Featured Projects",
+    "## Featured Projects",
     "",
     featured.map(featuredBlock).join("\n\n"),
     "",
     "<details>",
-    "<summary>🔍 View More Projects</summary>",
+    "<summary>View More Projects</summary>",
     "",
     rest.map(moreItem).join("\n"),
     "</details>",
