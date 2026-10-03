@@ -22,9 +22,15 @@ jobs:
 
       - name: Commit if changed
         run: |
-          git config user.name "strange-exe"
-          git config user.email "work.abhinesh@gmail.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
           git diff --cached --quiet && echo "No changes" && exit 0
           git commit -m "chore: sync projects from abhinesh.codes"
-          git push
+          # Replay on top of the latest main if it moved while we ran
+          for attempt in 1 2 3; do
+            git pull --rebase origin main && git push && exit 0
+            echo "Push attempt $attempt failed, retrying…"
+            sleep $((attempt * 5))
+          done
+          exit 1
