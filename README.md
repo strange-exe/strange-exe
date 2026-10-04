@@ -51,13 +51,13 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 
 ### [Revlens AI](https://revlens.abhinesh.codes/)
 > **AI-powered review intelligence** platform that transforms guest feedback into decision-ready insights for homestay owners.
-* **Stack:** Python, JavaScript, NLP, Sentiment Analysis, Analytics Dashboard
+* **Stack:** Python, FastAPI, JavaScript, PostgreSQL, NLP, Sentiment Analysis
 * **Impact:** Converts raw reviews into operational insight with theme detection and batch-friendly analysis.
 * [GitHub Repository](https://github.com/strange-exe/revlens-ai) • [Live Demo](https://revlens.abhinesh.codes/)
 
 ### [IME (Maritime Email Intelligence)](https://github.com/strange-exe/IME)
 > **AI-driven maritime parser** that classifies shipping emails and extracts structured logistics metadata.
-* **Stack:** Python, Local NLP, Text Classification, REST APIs, Docker
+* **Stack:** Python, FastAPI, scikit-learn, NLP, Text Classification, Pandas, NumPy, Docker
 * **Impact:** Transforms unstructured maritime mail into usable records (ports, routes, dates).
 * [GitHub Repository](https://github.com/strange-exe/IME)
 
@@ -76,17 +76,16 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <details>
 <summary>View More Projects</summary>
 
+- **[Spacehub](https://github.com/strange-exe/spacehub)**: SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually. [Demo](https://abhinesh.codes/spacehub/)
+- **[ArenaSync](https://github.com/strange-exe/ArenaSync)**: ArenaSync is a GenAI-enabled Smart Stadium & Operations Hub built for the FIFA World Cup 2026. Featuring an interactive 3D Three.js map layer, real-time telemetry simulators, a voice-enabled multilingual matchday chatbot, and an AI volunteer dispatch command room powered by Gemini (Node.js + Express) [Demo](https://arenasync-pnl8.onrender.com/)
+- **[Lexi AI](https://github.com/strange-exe/lexi-ai)**: A comprehensive, production-grade GenAI solution designed to democratize legal comprehension, bridge information asymmetry, and make legal documents and rights navigable for everyday individuals, tenants, freelancers, and small business owners without replacing professional legal counsel. [Demo](https://lexi-ai.antideploy.com/)
+- **[EcoTrack](https://github.com/strange-exe/ecotracker)**: Local-first, privacy-respecting carbon footprint tracker with gamification, peer comparisons, and analytics. [Demo](https://ecotracker.antideploy.app/)
 - **[Outing](https://github.com/strange-exe/outing)**: A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history
 - **[Quotes](https://github.com/strange-exe/quotes)** [Demo](https://abhinesh.codes/quotes/)
 - **[Clock](https://github.com/strange-exe/clock)** [Demo](https://abhinesh.codes/clock/)
 - **[Setu](https://github.com/strange-exe/setu)**: Multilingual Digital Public Good that turns citizen development requests into a ranked, auditable national investment order. Built for Hack2Skill Build with AI: Code for Communities. [Demo](https://abhinesh.codes/setu/)
-- **[Lexi AI](https://github.com/strange-exe/lexi-ai)**: A comprehensive, production-grade GenAI solution designed to democratize legal comprehension, bridge information asymmetry, and make legal documents and rights navigable for everyday individuals, tenants, freelancers, and small business owners without replacing professional legal counsel.
 - **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[Hourglass](https://github.com/strange-exe/hourglass)**: Hour Glass – A sleek, interactive study timer with customizable themes, reminders, focus mode, and live study stats to boost productivity. [Demo](https://abhinesh.codes/hourglass/)
-- **[ArenaSync](https://github.com/strange-exe/ArenaSync)**: ArenaSync is a GenAI-enabled Smart Stadium & Operations Hub built for the FIFA World Cup 2026. Featuring an interactive 3D Three.js map layer, real-time telemetry simulators, a voice-enabled multilingual matchday chatbot, and an AI volunteer dispatch command room powered by Gemini (Node.js + Express) [Demo](https://arenasync-pnl8.onrender.com/)
-- **[CropMind](https://github.com/strange-exe/CropMind-Chatbot)**: Smart farming assistant: crop tracking dashboard, live soil-moisture and rain-probability widgets, and an AI chat assistant. [Demo](https://crop-mind-chatbot-ten.vercel.app/)
-- **[EcoTrack](https://github.com/strange-exe/ecotracker)**: Local-first, privacy-respecting carbon footprint tracker with gamification, peer comparisons, and analytics.
-- **[Spacehub](https://github.com/strange-exe/spacehub)**: SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually. [Demo](https://abhinesh.codes/spacehub/)
 - **[Taskflow](https://github.com/strange-exe/taskflow)**: CBC Submission
 - **[Tic](https://github.com/strange-exe/tic)** [Demo](https://tic.abhinesh.codes/)
 - **[Cipher](https://github.com/strange-exe/cipher)**: An Encryption , Decryption tool which Encrypts words by rearranging characters and inserting random noise based on a given key, and reverses the process to decrypt. [Demo](https://abhinesh.codes/cipher/)
