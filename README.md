@@ -76,7 +76,9 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <details>
 <summary>View More Projects</summary>
 
+- **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection.
 - **[Lumiback](https://github.com/strange-exe/lumiback)**: A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history [Demo](https://lumiback.abhinesh.codes/)
+- **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[F1 Race Replay](https://github.com/strange-exe/f1-race-replay)**: An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 - **[Spacehub](https://github.com/strange-exe/spacehub)**: SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually. [Demo](https://abhinesh.codes/spacehub/)
 - **[ArenaSync](https://github.com/strange-exe/ArenaSync)**: ArenaSync is a GenAI-enabled Smart Stadium & Operations Hub built for the FIFA World Cup 2026. Featuring an interactive 3D Three.js map layer, real-time telemetry simulators, a voice-enabled multilingual matchday chatbot, and an AI volunteer dispatch command room powered by Gemini (Node.js + Express) [Demo](https://arenasync-pnl8.onrender.com/)
@@ -85,7 +87,6 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 - **[Quotes](https://github.com/strange-exe/quotes)** [Demo](https://abhinesh.codes/quotes/)
 - **[Clock](https://github.com/strange-exe/clock)** [Demo](https://abhinesh.codes/clock/)
 - **[Setu](https://github.com/strange-exe/setu)**: Multilingual Digital Public Good that turns citizen development requests into a ranked, auditable national investment order. Built for Hack2Skill Build with AI: Code for Communities. [Demo](https://abhinesh.codes/setu/)
-- **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[Hourglass](https://github.com/strange-exe/hourglass)**: Hour Glass – A sleek, interactive study timer with customizable themes, reminders, focus mode, and live study stats to boost productivity. [Demo](https://abhinesh.codes/hourglass/)
 - **[Taskflow](https://github.com/strange-exe/taskflow)**: CBC Submission
 - **[Tic](https://github.com/strange-exe/tic)** [Demo](https://tic.abhinesh.codes/)
