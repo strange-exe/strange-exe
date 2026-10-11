@@ -76,8 +76,8 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <details>
 <summary>View More Projects</summary>
 
-- **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection.
-- **[Lumiback](https://github.com/strange-exe/lumiback)**: A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history [Demo](https://lumiback.abhinesh.codes/)
+- **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection. [Demo](https://pocket-run.abhinesh.codes/)
+- **[Lumiback](https://github.com/strange-exe/lumiback)**: A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history
 - **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[F1 Race Replay](https://github.com/strange-exe/f1-race-replay)**: An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 - **[Spacehub](https://github.com/strange-exe/spacehub)**: SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually. [Demo](https://abhinesh.codes/spacehub/)
