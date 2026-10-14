@@ -76,8 +76,9 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <details>
 <summary>View More Projects</summary>
 
-- **[Links Hub](https://github.com/strange-exe/links-hub)**: My personal links page: resume, projects and socials in one place. [Demo](https://links.abhinesh.codes/)
+- **[Doon View](https://github.com/strange-exe/doon-view)**: Figure out whether the issue is ours or the markets'
 - **[Lumiback](https://github.com/strange-exe/lumiback)**: A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history [Demo](https://lumiback.abhinesh.codes/)
+- **[Links Hub](https://github.com/strange-exe/links-hub)**: My personal links page: resume, projects and socials in one place. [Demo](https://links.abhinesh.codes/)
 - **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection. [Demo](https://pocket-run.abhinesh.codes/about/)
 - **[Setu](https://github.com/strange-exe/setu)**: Multilingual Digital Public Good that turns citizen development requests into a ranked, auditable national investment order. Built for Hack2Skill Build with AI: Code for Communities. [Demo](https://abhinesh.codes/setu/)
 - **[Spacehub](https://github.com/strange-exe/spacehub)**: SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually. [Demo](https://abhinesh.codes/spacehub/)
