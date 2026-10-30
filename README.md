@@ -76,7 +76,7 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <details>
 <summary>View More Projects</summary>
 
-- **[Code Editor](https://github.com/strange-exe/code-editor)**: A personal code editor that runs Python, C and C++ in the browser (Pyodide and clang compiled to WebAssembly) and syncs files to a private GitHub repo. [Demo](https://code-editor.abhinesh.codes/about)
+- **[ExecFlow](https://github.com/strange-exe/ExecFlow)**: A personal code editor that runs Python, C and C++ in the browser (Pyodide and clang compiled to WebAssembly) and syncs files to a private GitHub repo. [Demo](https://execflow.abhinesh.codes/about)
 - **[Links Hub](https://github.com/strange-exe/links-hub)**: My personal links page: resume, projects and socials in one place. [Demo](https://links.abhinesh.codes/)
 - **[Bullion Basis](https://github.com/strange-exe/Bullion-Basis)**: MCX gold futures in four lot sizes, normalized to one price per gram (999). Finds a ~50 bps gap between GOLDTEN and GUINEA/PETAL on real Bhavcopy data, and tests whether it survives costs without look-ahead: walk-forward, level signal, contract-calendar rules. [Demo](https://bullion-basis.pages.dev/)
 - **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection. [Demo](https://pocket-run.abhinesh.codes/about/)
