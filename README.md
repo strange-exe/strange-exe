@@ -49,17 +49,26 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <!-- PROJECTS:START -->
 ## Featured Projects
 
+### [ExecFlow](https://execflow.abhinesh.codes/about)
+> ExecFlow is a code editor in the browser for students. It runs Python (Pyodide) and C/C++ (LLVM in WebAssembly) on your own device. It works offline as an installable web app, turns code into flowcharts, makes encrypted short links and QR codes for sharing, and can sync to a private GitHub repository.
+* **Stack:** TypeScript
+* [GitHub Repository](https://github.com/strange-exe/ExecFlow) • [Live Demo](https://execflow.abhinesh.codes/about)
+
+### [Spacehub](https://abhinesh.codes/spacehub/)
+> SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually.
+* **Stack:** TypeScript
+* [GitHub Repository](https://github.com/strange-exe/spacehub) • [Live Demo](https://abhinesh.codes/spacehub/)
+
+### [Lumiback](https://github.com/strange-exe/lumiback)
+> A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history
+* **Stack:** TypeScript
+* [GitHub Repository](https://github.com/strange-exe/lumiback)
+
 ### [Revlens AI](https://revlens.abhinesh.codes/)
 > **AI-powered review intelligence** platform that transforms guest feedback into decision-ready insights for homestay owners.
 * **Stack:** Python, FastAPI, JavaScript, PostgreSQL, NLP, Sentiment Analysis
 * **Impact:** Converts raw reviews into operational insight with theme detection and batch-friendly analysis.
 * [GitHub Repository](https://github.com/strange-exe/revlens-ai) • [Live Demo](https://revlens.abhinesh.codes/)
-
-### [IME (Maritime Email Intelligence)](https://github.com/strange-exe/IME)
-> **AI-driven maritime parser** that classifies shipping emails and extracts structured logistics metadata.
-* **Stack:** Python, FastAPI, scikit-learn, NLP, Text Classification, Pandas, NumPy, Docker
-* **Impact:** Transforms unstructured maritime mail into usable records (ports, routes, dates).
-* [GitHub Repository](https://github.com/strange-exe/IME)
 
 ### [Epoch](https://epoch.abhinesh.codes/)
 > **High-fidelity countdown builder** and event reveal platform with client-side media exports.
@@ -67,23 +76,16 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 * **Impact:** Lightweight, offline-first client-side tool with custom themes and smooth transitions.
 * [GitHub Repository](https://github.com/strange-exe/epoch) • [Live Demo](https://epoch.abhinesh.codes/)
 
-### [Codesprint](https://abhinesh.codes/codesprint/)
-> **Competitive browser-based typing challenge** designed for speed, precision, and coding discipline.
-* **Stack:** JavaScript, Keystroke Tracking, CSS Grid/Flex
-* **Impact:** Tracks live keystroke metrics and real-time input over code snippets (Python, JS, C).
-* [GitHub Repository](https://github.com/strange-exe/codesprint) • [Live Demo](https://abhinesh.codes/codesprint/)
-
 <details>
 <summary>View More Projects</summary>
 
-- **[ExecFlow](https://github.com/strange-exe/ExecFlow)**: A personal code editor that runs Python, C and C++ in the browser (Pyodide and clang compiled to WebAssembly) and syncs files to a private GitHub repo. [Demo](https://execflow.abhinesh.codes/about)
+- **[Jashn Event Planner](https://github.com/strange-exe/jashn-event-planner)**: GenAI celebration & event planner for weddings, birthdays and community events. A transparent rule engine builds budgets that add up, dated timelines, vendor checklists and risk flags; a Gemini assistant adds personalised ideas and proposes changes you approve. Next.js, TypeScript, accessible, tested. [Demo](https://jashn-event-planner.vercel.app/)
 - **[Links Hub](https://github.com/strange-exe/links-hub)**: My personal links page: resume, projects and socials in one place. [Demo](https://links.abhinesh.codes/)
 - **[Bullion Basis](https://github.com/strange-exe/Bullion-Basis)**: MCX gold futures in four lot sizes, normalized to one price per gram (999). Finds a ~50 bps gap between GOLDTEN and GUINEA/PETAL on real Bhavcopy data, and tests whether it survives costs without look-ahead: walk-forward, level signal, contract-calendar rules. [Demo](https://bullion-basis.pages.dev/)
 - **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection. [Demo](https://pocket-run.abhinesh.codes/about/)
 - **[Doon View](https://github.com/strange-exe/doon-view)**: Figure out whether the issue is ours or the markets' [Demo](https://doon-view.abhinesh.codes/)
-- **[Lumiback](https://github.com/strange-exe/lumiback)**: A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history
+- **[Codesprint](https://github.com/strange-exe/codesprint)**: CodeSprint is a competitive, browser-based coding challenge where speed meets accuracy. Players type real code snippets (Python, JavaScript, C — more coming soon!) under time pressure, while every keystroke is tracked. [Demo](https://abhinesh.codes/codesprint/)
 - **[Setu](https://github.com/strange-exe/setu)**: Multilingual Digital Public Good that turns citizen development requests into a ranked, auditable national investment order. Built for Hack2Skill Build with AI: Code for Communities. [Demo](https://abhinesh.codes/setu/)
-- **[Spacehub](https://github.com/strange-exe/spacehub)**: SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually. [Demo](https://abhinesh.codes/spacehub/)
 - **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[F1 Race Replay](https://github.com/strange-exe/f1-race-replay)**: An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 - **[ArenaSync](https://github.com/strange-exe/ArenaSync)**: ArenaSync is a GenAI-enabled Smart Stadium & Operations Hub built for the FIFA World Cup 2026. Featuring an interactive 3D Three.js map layer, real-time telemetry simulators, a voice-enabled multilingual matchday chatbot, and an AI volunteer dispatch command room powered by Gemini (Node.js + Express) [Demo](https://arenasync-pnl8.onrender.com/)
@@ -93,6 +95,7 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 - **[Clock](https://github.com/strange-exe/clock)** [Demo](https://abhinesh.codes/clock/)
 - **[Hourglass](https://github.com/strange-exe/hourglass)**: Hour Glass – A sleek, interactive study timer with customizable themes, reminders, focus mode, and live study stats to boost productivity. [Demo](https://abhinesh.codes/hourglass/)
 - **[Taskflow](https://github.com/strange-exe/taskflow)**: CBC Submission
+- **[IME (Maritime Email Intelligence)](https://github.com/strange-exe/IME)**: AI-powered maritime email intelligence. Classifies shipping emails and extracts structured records using local Python NLP.
 - **[Tic](https://github.com/strange-exe/tic)** [Demo](https://tic.abhinesh.codes/)
 - **[Cipher](https://github.com/strange-exe/cipher)**: An Encryption , Decryption tool which Encrypts words by rearranging characters and inserting random noise based on a given key, and reverses the process to decrypt. [Demo](https://abhinesh.codes/cipher/)
 - **[Pass](https://github.com/strange-exe/pass)**: My first project, built using HTML, CSS, and JavaScript. It lets users generate secure, random passwords with customizable parameters and copy them instantly. [Demo](https://abhinesh.codes/pass/)
