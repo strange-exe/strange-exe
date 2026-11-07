@@ -59,10 +59,10 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 * **Stack:** TypeScript
 * [GitHub Repository](https://github.com/strange-exe/spacehub) • [Live Demo](https://abhinesh.codes/spacehub/)
 
-### [Lumiback](https://github.com/strange-exe/lumiback)
+### [Lumiback](https://lumiback.abhinesh.codes/)
 > A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history
 * **Stack:** TypeScript
-* [GitHub Repository](https://github.com/strange-exe/lumiback)
+* [GitHub Repository](https://github.com/strange-exe/lumiback) • [Live Demo](https://lumiback.abhinesh.codes/)
 
 ### [Revlens AI](https://revlens.abhinesh.codes/)
 > **AI-powered review intelligence** platform that transforms guest feedback into decision-ready insights for homestay owners.
@@ -79,10 +79,10 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <details>
 <summary>View More Projects</summary>
 
+- **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection. [Demo](https://pocket-run.abhinesh.codes/about/)
 - **[Jashn Event Planner](https://github.com/strange-exe/jashn-event-planner)**: GenAI celebration & event planner for weddings, birthdays and community events. A transparent rule engine builds budgets that add up, dated timelines, vendor checklists and risk flags; a Gemini assistant adds personalised ideas and proposes changes you approve. Next.js, TypeScript, accessible, tested. [Demo](https://jashn.abhinesh.codes/)
 - **[Links Hub](https://github.com/strange-exe/links-hub)**: My personal links page: resume, projects and socials in one place. [Demo](https://links.abhinesh.codes/)
 - **[Bullion Basis](https://github.com/strange-exe/Bullion-Basis)**: MCX gold futures in four lot sizes, normalized to one price per gram (999). Finds a ~50 bps gap between GOLDTEN and GUINEA/PETAL on real Bhavcopy data, and tests whether it survives costs without look-ahead: walk-forward, level signal, contract-calendar rules. [Demo](https://bullion-basis.pages.dev/)
-- **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection. [Demo](https://pocket-run.abhinesh.codes/about/)
 - **[Doon View](https://github.com/strange-exe/doon-view)**: Figure out whether the issue is ours or the markets' [Demo](https://doon-view.abhinesh.codes/)
 - **[Codesprint](https://github.com/strange-exe/codesprint)**: CodeSprint is a competitive, browser-based coding challenge where speed meets accuracy. Players type real code snippets (Python, JavaScript, C — more coming soon!) under time pressure, while every keystroke is tracked. [Demo](https://abhinesh.codes/codesprint/)
 - **[Setu](https://github.com/strange-exe/setu)**: Multilingual Digital Public Good that turns citizen development requests into a ranked, auditable national investment order. Built for Hack2Skill Build with AI: Code for Communities. [Demo](https://abhinesh.codes/setu/)
