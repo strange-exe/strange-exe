@@ -59,10 +59,10 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 * **Stack:** TypeScript
 * [GitHub Repository](https://github.com/strange-exe/spacehub) • [Live Demo](https://abhinesh.codes/spacehub/)
 
-### [Lumiback](https://lumiback.abhinesh.codes/)
-> A web app to efficiently track student outings. Students can register, log in, record outings and returns, and view their history
+### [Lumiback](https://github.com/strange-exe/lumiback)
+> Hostel outing log for Graphic Era University: students tap out and back in at the gate with a rotating QR and a GPS check, wardens see who’s out and who’s late, and friends can follow a trip only with the student’s consent. FastAPI, Next.js and an Expo Android app.
 * **Stack:** TypeScript
-* [GitHub Repository](https://github.com/strange-exe/lumiback) • [Live Demo](https://lumiback.abhinesh.codes/)
+* [GitHub Repository](https://github.com/strange-exe/lumiback)
 
 ### [Revlens AI](https://revlens.abhinesh.codes/)
 > **AI-powered review intelligence** platform that transforms guest feedback into decision-ready insights for homestay owners.
@@ -85,7 +85,7 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 - **[Bullion Basis](https://github.com/strange-exe/Bullion-Basis)**: MCX gold futures in four lot sizes, normalized to one price per gram (999). Finds a ~50 bps gap between GOLDTEN and GUINEA/PETAL on real Bhavcopy data, and tests whether it survives costs without look-ahead: walk-forward, level signal, contract-calendar rules. [Demo](https://bullion-basis.pages.dev/)
 - **[Doon View](https://github.com/strange-exe/doon-view)**: Figure out whether the issue is ours or the markets' [Demo](https://doon-view.abhinesh.codes/)
 - **[Codesprint](https://github.com/strange-exe/codesprint)**: CodeSprint is a competitive, browser-based coding challenge where speed meets accuracy. Players type real code snippets (Python, JavaScript, C — more coming soon!) under time pressure, while every keystroke is tracked. [Demo](https://abhinesh.codes/codesprint/)
-- **[Setu](https://github.com/strange-exe/setu)**: Multilingual Digital Public Good that turns citizen development requests into a ranked, auditable national investment order. Built for Hack2Skill Build with AI: Code for Communities. [Demo](https://abhinesh.codes/setu/)
+- **[Setu](https://github.com/strange-exe/setu)**: Multilingual Digital Public Good that turns citizen development requests into a ranked, auditable national investment order. Built for Hack2Skill Build with AI: Code for Communities.
 - **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[F1 Race Replay](https://github.com/strange-exe/f1-race-replay)**: An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 - **[ArenaSync](https://github.com/strange-exe/ArenaSync)**: ArenaSync is a GenAI-enabled Smart Stadium & Operations Hub built for the FIFA World Cup 2026. Featuring an interactive 3D Three.js map layer, real-time telemetry simulators, a voice-enabled multilingual matchday chatbot, and an AI volunteer dispatch command room powered by Gemini (Node.js + Express) [Demo](https://arenasync-pnl8.onrender.com/)
