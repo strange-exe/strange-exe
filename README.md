@@ -59,10 +59,10 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 * **Stack:** TypeScript
 * [GitHub Repository](https://github.com/strange-exe/spacehub) • [Live Demo](https://abhinesh.codes/spacehub/)
 
-### [Lumiback](https://lumiback.abhinesh.codes/)
+### [Lumiback](https://github.com/strange-exe/lumiback)
 > Hostel outing log for Graphic Era University: students tap out and back in at the gate with a rotating QR and a GPS check, wardens see who’s out and who’s late, and friends can follow a trip only with the student’s consent. FastAPI, Next.js and an Expo Android app.
 * **Stack:** TypeScript
-* [GitHub Repository](https://github.com/strange-exe/lumiback) • [Live Demo](https://lumiback.abhinesh.codes/)
+* [GitHub Repository](https://github.com/strange-exe/lumiback)
 
 ### [Revlens AI](https://revlens.abhinesh.codes/)
 > **AI-powered review intelligence** platform that transforms guest feedback into decision-ready insights for homestay owners.
@@ -79,6 +79,7 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <details>
 <summary>View More Projects</summary>
 
+- **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection. [Demo](https://pocket-run.abhinesh.codes/about/)
 - **[Jashn Event Planner](https://github.com/strange-exe/jashn-event-planner)**: GenAI celebration & event planner for weddings, birthdays and community events. A transparent rule engine builds budgets that add up, dated timelines, vendor checklists and risk flags; a Gemini assistant adds personalised ideas and proposes changes you approve. Next.js, TypeScript, accessible, tested. [Demo](https://jashn.abhinesh.codes/)
 - **[Links Hub](https://github.com/strange-exe/links-hub)**: My personal links page: resume, projects and socials in one place. [Demo](https://links.abhinesh.codes/)
@@ -86,7 +87,6 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 - **[Doon View](https://github.com/strange-exe/doon-view)**: Figure out whether the issue is ours or the markets' [Demo](https://doon-view.abhinesh.codes/)
 - **[Codesprint](https://github.com/strange-exe/codesprint)**: CodeSprint is a competitive, browser-based coding challenge where speed meets accuracy. Players type real code snippets (Python, JavaScript, C — more coming soon!) under time pressure, while every keystroke is tracked. [Demo](https://abhinesh.codes/codesprint/)
 - **[Setu](https://github.com/strange-exe/setu)**: Multilingual Digital Public Good that turns citizen development requests into a ranked, auditable national investment order. Built for Hack2Skill Build with AI: Code for Communities. [Demo](https://abhinesh.codes/setu/)
-- **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[F1 Race Replay](https://github.com/strange-exe/f1-race-replay)**: An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 - **[ArenaSync](https://github.com/strange-exe/ArenaSync)**: ArenaSync is a GenAI-enabled Smart Stadium & Operations Hub built for the FIFA World Cup 2026. Featuring an interactive 3D Three.js map layer, real-time telemetry simulators, a voice-enabled multilingual matchday chatbot, and an AI volunteer dispatch command room powered by Gemini (Node.js + Express) [Demo](https://arenasync-pnl8.onrender.com/)
 - **[Lexi AI](https://github.com/strange-exe/lexi-ai)**: A comprehensive, production-grade GenAI solution designed to democratize legal comprehension, bridge information asymmetry, and make legal documents and rights navigable for everyday individuals, tenants, freelancers, and small business owners without replacing professional legal counsel. [Demo](https://lexi-ai.antideploy.com/)
