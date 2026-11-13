@@ -59,10 +59,10 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 * **Stack:** TypeScript
 * [GitHub Repository](https://github.com/strange-exe/spacehub) • [Live Demo](https://abhinesh.codes/spacehub/)
 
-### [Lumiback](https://lumiback.abhinesh.codes/)
+### [Lumiback](https://github.com/strange-exe/lumiback)
 > Hostel outing log for Graphic Era University: students tap out and back in at the gate with a rotating QR and a GPS check, wardens see who’s out and who’s late, and friends can follow a trip only with the student’s consent. FastAPI, Next.js and an Expo Android app.
 * **Stack:** TypeScript
-* [GitHub Repository](https://github.com/strange-exe/lumiback) • [Live Demo](https://lumiback.abhinesh.codes/)
+* [GitHub Repository](https://github.com/strange-exe/lumiback)
 
 ### [Revlens AI](https://revlens.abhinesh.codes/)
 > **AI-powered review intelligence** platform that transforms guest feedback into decision-ready insights for homestay owners.
