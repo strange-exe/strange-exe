@@ -79,6 +79,7 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <details>
 <summary>View More Projects</summary>
 
+- **[RamOptimiser](https://github.com/strange-exe/RamOptimiser)**
 - **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection. [Demo](https://pocket-run.abhinesh.codes/about/)
 - **[Jashn Event Planner](https://github.com/strange-exe/jashn-event-planner)**: GenAI celebration & event planner for weddings, birthdays and community events. A transparent rule engine builds budgets that add up, dated timelines, vendor checklists and risk flags; a Gemini assistant adds personalised ideas and proposes changes you approve. Next.js, TypeScript, accessible, tested. [Demo](https://jashn.abhinesh.codes/)
