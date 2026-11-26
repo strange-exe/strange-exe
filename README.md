@@ -54,15 +54,20 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 * **Stack:** TypeScript
 * [GitHub Repository](https://github.com/strange-exe/ExecFlow) • [Live Demo](https://execflow.abhinesh.codes/about)
 
-### [Spacehub](https://abhinesh.codes/spacehub/)
-> SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually.
-* **Stack:** TypeScript
-* [GitHub Repository](https://github.com/strange-exe/spacehub) • [Live Demo](https://abhinesh.codes/spacehub/)
-
 ### [Lumiback](https://github.com/strange-exe/lumiback)
 > Hostel outing log for Graphic Era University: students tap out and back in at the gate with a rotating QR and a GPS check, wardens see who’s out and who’s late, and friends can follow a trip only with the student’s consent. FastAPI, Next.js and an Expo Android app.
 * **Stack:** TypeScript
 * [GitHub Repository](https://github.com/strange-exe/lumiback)
+
+### [RamOptimiser](https://ramoptimiser.abhinesh.codes/)
+> 
+* **Stack:** C#
+* [GitHub Repository](https://github.com/strange-exe/RamOptimiser) • [Live Demo](https://ramoptimiser.abhinesh.codes/)
+
+### [Spacehub](https://abhinesh.codes/spacehub/)
+> SpaceHub is a clean, responsive web app that displays NASA’s Astronomy Picture of the Day (APOD) using the official NASA API. It provides daily cosmic images with titles, descriptions, and dates, offering users a simple way to explore space visually.
+* **Stack:** TypeScript
+* [GitHub Repository](https://github.com/strange-exe/spacehub) • [Live Demo](https://abhinesh.codes/spacehub/)
 
 ### [Revlens AI](https://revlens.abhinesh.codes/)
 > **AI-powered review intelligence** platform that transforms guest feedback into decision-ready insights for homestay owners.
@@ -79,7 +84,6 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 <details>
 <summary>View More Projects</summary>
 
-- **[RamOptimiser](https://github.com/strange-exe/RamOptimiser)** [Demo](https://ramoptimiser.abhinesh.codes/)
 - **[MiniGit](https://github.com/strange-exe/MiniGit)**: MiniGit is a console-based C++ project that demonstrates version control through commits, history, checkout, and rollback operations. [Demo](https://abhinesh.codes/MiniGit/)
 - **[Pocket Run](https://github.com/strange-exe/pocket-run)**: Offline-first PWA that runs Python, C and C++ files in the browser. Open, run, and save code on your phone, even with no internet connection. [Demo](https://pocket-run.abhinesh.codes/about/)
 - **[Jashn Event Planner](https://github.com/strange-exe/jashn-event-planner)**: GenAI celebration & event planner for weddings, birthdays and community events. A transparent rule engine builds budgets that add up, dated timelines, vendor checklists and risk flags; a Gemini assistant adds personalised ideas and proposes changes you approve. Next.js, TypeScript, accessible, tested. [Demo](https://jashn.abhinesh.codes/)
