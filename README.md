@@ -54,10 +54,10 @@ I focus on practical systems: Python, C, REST APIs, automation, data handling, a
 * **Stack:** TypeScript
 * [GitHub Repository](https://github.com/strange-exe/ExecFlow) • [Live Demo](https://execflow.abhinesh.codes/about)
 
-### [Lumiback](https://github.com/strange-exe/lumiback)
+### [Lumiback](https://lumiback.abhinesh.codes/)
 > Hostel outing log for Graphic Era University: students tap out and back in at the gate with a rotating QR and a GPS check, wardens see who’s out and who’s late, and friends can follow a trip only with the student’s consent. FastAPI, Next.js and an Expo Android app.
 * **Stack:** TypeScript
-* [GitHub Repository](https://github.com/strange-exe/lumiback)
+* [GitHub Repository](https://github.com/strange-exe/lumiback) • [Live Demo](https://lumiback.abhinesh.codes/)
 
 ### [RamOptimiser](https://ramoptimiser.abhinesh.codes/)
 > 
